@@ -8,3 +8,7 @@ app.listen(3000, function() {
 app.get('/', function(req, res) {
   res.sendFile(__dirname + '/index.html')
 })
+
+app.post('/quotes', function(req, res) {
+  console.log("testing foo and bar")
+})
