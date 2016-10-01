@@ -5,7 +5,10 @@ const app = express()
 
 app.use(bodyParser.urlencoded({extended: true}))
 
-MongoClient.connect('link-to-mongodb', function(err, database) {
+var db
+
+MongoClient.connect('mongodb://<admin>:<admin>@ds047166.mlab.com:47166/personal-website', 
+function(err, database) {
   if (err) return console.log(err)
   db = database
   app.listen(3000, function() {
