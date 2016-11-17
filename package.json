@@ -19,8 +19,7 @@
   "homepage": "https://github.com/sarahseewhy/sarahseewhy#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "mongodb": "^2.2.10"
+    "express": "^4.14.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
