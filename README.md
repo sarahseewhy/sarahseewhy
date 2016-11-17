@@ -3,6 +3,10 @@
 Side project to build a website using javascript and experimenting with various
 tutorials.
 
+Ensure all necessary packages are installed on machine in use.
+
+Use `npm run dev` to fire up the app.
+
 
 ### Phase I
 
