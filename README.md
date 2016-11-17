@@ -7,7 +7,6 @@ Ensure all necessary packages are installed on machine in use.
 
 Use `npm run dev` to fire up the app.
 
-
 ### Phase I
 
 I started by following this tutorial: ["Building a simple CRUD application with
@@ -22,8 +21,12 @@ thing I missed was a guide to test-driving the tutorial.
 I'd like to practice and review some core HTML and CSS skills by generating a
 static website, no bells or whistles functionality.
 
+I enjoyed Zell's previous tutorial, especially the writing style and clear
+instructions so I started there.
+
 **Useful Resources**
-TBC
+
+* [Creating a clean and simple website (Part 1 – HTML)](https://zellwk.com/blog/creating-a-clean-and-simple-website-part-1-html/)
 
 ### Phase III
 
