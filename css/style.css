@@ -1,24 +1,5 @@
 #header {
   background-color: #2b2927;
-   /* This shows the background color */
-
-  margin-bottom: 81px;
-   /* This ensures that there is a margin of 81px between the header of other elements */
-
-  overflow: hidden;
-  /* Overflow hidden is used because we will be floating all children elements. */
-}
-
-.wrap {
-  width: 1152px;
-  /* Sets the width of the elements to be 1152 pixels. */
-
-  margin: 0 auto;
-  /* Shorthand for margin. Auto on left and right allows .wrap to be centered in the browser */
-}
-
-#header {
-  background-color: #2b2927;
   /* This shows the background color */
 
   margin-bottom: 81px;
