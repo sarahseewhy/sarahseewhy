@@ -1,10 +1,5 @@
 body {
   font: normal 18px/1.5 "Montserrat", helvetica, arial, sans-serif;
-  /* This is a font shorthand that allows you to set many variables at one go, in this case its:
-  font weight:    normal;
-  font-size:      18px;
-  line-height:    1.5;
-  font-family:    "Montserrat", helvetica, arial, sans-serif; */
 }
 
 #header {
@@ -13,6 +8,13 @@ body {
 
 #content {
   background-color: green;
+}
+
+.post {
+  background-color: lime;
+  columns: 20em;
+  height: 100vh;
+  width: 75vw;
 }
 
 #sidebar {
