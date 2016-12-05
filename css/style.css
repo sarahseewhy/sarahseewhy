@@ -6,3 +6,19 @@ body {
   line-height:    1.5;
   font-family:    "Montserrat", helvetica, arial, sans-serif; */
 }
+
+#header {
+  background-color: blue;
+}
+
+#content {
+  background-color: green;
+}
+
+#sidebar {
+  background-color: yellow;
+}
+
+#footer {
+  background-color: grey;
+}
