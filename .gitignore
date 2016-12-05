@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/node,git
 
+# DS #
+*.DS_Store
+
 ### Node ###
 # Logs
 logs
