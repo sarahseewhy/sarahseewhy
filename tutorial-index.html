@@ -1,0 +1,63 @@
+<!-- #header helps with targeting for CSS at a later stage  -->
+<div id="header">
+  <!-- using class because the '.wrap' will be used with multiple elements-->
+  <div class="wrap">
+    <div id="title-area">
+        <h1 id="title">
+          <!-- anchor tags are given href of # for demo purposes. -->
+          <a href="#">Name</a>
+        </h1>
+    </div>
+    <nav>
+      <ul>
+        <!-- An unordered list is used for navigation -->
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</div>
+<div id="content">
+  <div class="post">
+      <h2 class="entry-title">
+          <a href="#">
+          <!-- We use an anchor tag here because we want the post preview to link to the post itself -->
+              Title Post
+              <!-- Title of post goes here -->
+          </a>
+      </h2>
+      <div class="postinfo">
+          MONTH XX, YEAR
+          <!-- Post info, like time goes here -->
+      </div>
+      <div class="entry-content">
+          <!-- Actual post items goes here -->
+          <img src="" alt="">
+          <p>
+              Hello World
+          </p>
+      </div>
+  </div>
+</div>
+<div id="sidebar">
+  <div class="widget-wrap">
+      <!-- a wrap is used here to allow easy duplicating of layouts in the sidebar -->
+      <h4 class="widgettitle">
+          Sidebar item
+      </h4>
+      <p>
+          hello sidebar world
+      </p>
+  </div>
+</div>
+<div id="footer" class="footer">
+  <div class="wrap">
+      <div class="creds">
+          <p>Copyright &#x000A9; 2016 &middot;
+              <a href="#">sarahseewhy</a> &middot; Built on the <a href="#">undecided Framework</a>
+          </p>
+      </div>
+  </div>
+</div>
