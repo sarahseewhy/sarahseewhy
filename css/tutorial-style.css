@@ -63,6 +63,7 @@ nav ul {
   text-align:justify;
   /* text-align: justify and the following few lines of codes inclusive allows my navigation elements to have equal spaces within between them no matter how many elements there are.*/
 }
+
 nav ul:after {
   content:'';
   display:inline-block;
