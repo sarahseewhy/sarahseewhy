@@ -1,3 +1,19 @@
 body {
   font: normal 18px/1.5 "Montserrat", helvetica, arial, sans-serif;
 }
+
+#header {
+  background-color: blue;
+}
+
+#content {
+  background-color: yellow;
+}
+
+#sidebar {
+  background-color: lime;
+}
+
+#footer {
+  background-color: grey;
+}
