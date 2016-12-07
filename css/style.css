@@ -1,26 +1,3 @@
 body {
   font: normal 18px/1.5 "Montserrat", helvetica, arial, sans-serif;
 }
-
-#header {
-  background-color: blue;
-}
-
-#content {
-  background-color: green;
-}
-
-.post {
-  background-color: lime;
-  columns: 20em;
-  height: 50vh;
-  width: 60vw;
-}
-
-#sidebar {
-  background-color: yellow;
-}
-
-#footer {
-  background-color: grey;
-}

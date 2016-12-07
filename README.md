@@ -28,6 +28,7 @@ instructions so I started there.
 
 * [Creating a clean and simple website (Part 1 – HTML)](https://zellwk.com/blog/creating-a-clean-and-simple-website-part-1-html/)
 * [Creating a clean and simple website (Part 2 – Styling the header)](https://zellwk.com/blog/creating-a-clean-and-simple-website-part-2-styling-the-header/)
+* [How to build a responsive grid system] (https://zellwk.com/blog/responsive-grid-system/)
 
 ### Phase III
 
