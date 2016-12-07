@@ -2,8 +2,29 @@ body {
   font: normal 18px/1.5 "Montserrat", helvetica, arial, sans-serif;
 }
 
+#title {
+  font-size: 60px;
+}
+
 #header {
   background-color: blue;
+  margin-bottom: 81px;
+  overflow: hidden; /*Overflow hidden is used to float children elements.*/
+}
+
+.wrap {
+  width: 1152px;
+  margin: 0 auto; /* Auto on left and right allows .wrap to be centered in the browser */
+}
+
+#title-area {
+  display:block; /* Display block allows setting of width and height values  */
+  line-height: 108px;
+  height: 108px; /* height determines the amount of vertical space allocated for the header.
+                    Also, a line-height that equals the height ensures that the element is centered on the horizontal axis */
+  width: 30%; /*A small width is to ensure that there is space for navigational elements*/
+  float: left; /* floating the title area left ensures that it can be placed
+                  side by side with the navigational elements, which would be floated to the left as well */
 }
 
 #content {
