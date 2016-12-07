@@ -1,3 +1,19 @@
 body {
   font: normal 18px/1.5 "Montserrat", helvetica, arial, sans-serif;
 }
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.layout-wrap {
+  max-width: 1140px;
+  margin-right: auto;
+  margin-left: auto;
+}
