@@ -65,12 +65,17 @@ nav a {
 
 #content {
   background-color: yellow;
+  float: right;
+  width: 1000px;
 }
 
 #sidebar {
   background-color: lime;
+  float: left;
+  width: 250px;
 }
 
 #footer {
   background-color: grey;
+  clear: both;
 }
